@@ -1,0 +1,6 @@
+1. Problem Statement
+Write a C program to perform the following operations on an undirected graph using an adjacency matrix:
+
+A. Insertion of a vertex: Insert a new vertex along with its associated edges and display the updated graph.
+B. Deletion of an edge: Remove a selected edge from the graph and display the updated graph representation.
+C. Degree and neighbours: Calculate and display the degree and direct neighbours of a selected vertex.
