@@ -1,0 +1,3 @@
+Develop a C++ program to represent users and their messaging contacts as an undirected graph using an adjacency list. 
+The program should accept the number of users and their contact relationships as input, display the contact list of every user, 
+and calculate and display the number of contacts associated with each user.
