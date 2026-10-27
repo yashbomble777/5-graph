@@ -1,0 +1,14 @@
+Algorithm:
+
+1. Start.
+2. Read the number of users, \(V\).
+3. Create an empty adjacency list for all users.
+4. Read the number of contact relationships, \(E\).
+5. Repeat the following steps for each relationship:
+   - Read two user IDs, \(u\) and \(v\).
+   - Add \(v\) to the adjacency list of \(u\).
+   - Add \(u\) to the adjacency list of \(v\), because the graph is undirected.
+6. Display the contact list of each user.
+7. Calculate the number of contacts for each user by finding the size of their adjacency list.
+8. Display the number of contacts associated with each user.
+9. Stop.
