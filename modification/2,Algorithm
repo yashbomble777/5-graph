@@ -1,1 +1,19 @@
-
+Start.
+Read the number of vertices and the adjacency matrix.
+Display the original adjacency matrix.
+Insert a vertex:
+Read the connections of the new vertex with existing vertices.
+Update the corresponding row and column of the adjacency matrix.
+Increase the number of vertices by one.
+Display the updated graph.
+Delete an edge:
+Read the two vertices forming the selected edge.
+Check whether the edge exists.
+Set the corresponding matrix elements to zero.
+Display the updated graph.
+Find degree and neighbours:
+Read the selected vertex.
+Traverse its row in the adjacency matrix.
+Count the entries equal to one to calculate the degree.
+Display the vertices connected directly to it.
+Stop.
